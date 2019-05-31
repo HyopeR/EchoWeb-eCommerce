@@ -4,6 +4,7 @@
 <h4>1_web_commerce.sql</h4> 
 Sistemin arkaplanı için tasarlanmış veritabanının sql dosyasıdır. Proje çalıştırılmadan önce sql dosyası<br>
 mysql üzerine içe aktarılmalıdır.<br>
+<img src="https://img.webme.com/pic/c/creative-blog/dbEcommerce.jpg" height="350" width="600">
 
 <h4>settingsPages:</h4> 
 Temel tasarım elemanlarını içeren klasördür, css, js, başlangıç img... gibi temel tasarım öğelerini<br>
@@ -24,5 +25,5 @@ Sisteme kayıtlanmış tek mağaza hesabıdır. Mağaza hesaplarının sistem ü
 kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
 
 <h4>Programın genel görünümü:</h4> 
-<img src="" height="460" width="470">
+
 </p>
