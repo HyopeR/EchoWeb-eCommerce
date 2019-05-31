@@ -24,3 +24,6 @@ sayfalarından yararlanılarak yapılmaktadır.<br>
 <h4>seller -> arya</h4> 
 Sisteme kayıtlanmış tek mağaza hesabıdır. Mağaza hesaplarının sistem üzerinde dosya oluşturma, img depolama<br>
 kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
+
+<h5>Genel Kullanıcı Arayüzü</h5>
+<img src="https://img.webme.com/pic/c/creative-blog/all-template.jpg" height="600" width="250">
