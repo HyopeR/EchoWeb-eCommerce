@@ -5,7 +5,7 @@ Sistemin arkaplanı için tasarlanmış veritabanının sql dosyasıdır. Proje 
 mysql üzerine içe aktarılmalıdır.<br>
 <img src="https://img.webme.com/pic/c/creative-blog/dbEcommerce.jpg" width="1000">
 
-<hr>
+<hr style="color:red;">
 
 <h4>settingsPages:</h4> 
 Temel tasarım elemanlarını içeren klasördür, css, js, başlangıç img... gibi temel tasarım öğelerini<br>
