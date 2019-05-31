@@ -24,5 +24,5 @@ Sisteme kayıtlanmış tek mağaza hesabıdır. Mağaza hesaplarının sistem ü
 kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
 
 <h4>Programın genel görünümü:</h4> 
-<img src="https://img.webme.com/pic/c/creative-blog/Python-12.png" height="460" width="470">
+<img src="" height="460" width="470">
 </p>
