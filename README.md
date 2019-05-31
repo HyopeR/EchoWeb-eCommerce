@@ -26,4 +26,4 @@ Sisteme kayıtlanmış tek mağaza hesabıdır. Mağaza hesaplarının sistem ü
 kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
 
 <h5>Genel Kullanıcı Arayüzü</h5>
-<img src="https://img.webme.com/pic/c/creative-blog/all-template.jpg" height="600">
+<img src="https://img.webme.com/pic/c/creative-blog/all-template.jpg" width="450">
