@@ -3,7 +3,7 @@
 <h4>1_web_commerce.sql</h4> 
 Sistemin arkaplanı için tasarlanmış veritabanının sql dosyasıdır. Proje çalıştırılmadan önce sql dosyası<br>
 mysql üzerine içe aktarılmalıdır.<br>
-<img src="https://img.webme.com/pic/c/creative-blog/dbEcommerce.jpg" height="280" width="1000">
+<img src="https://img.webme.com/pic/c/creative-blog/dbEcommerce.jpg" width="1000">
 
 <hr>
 
