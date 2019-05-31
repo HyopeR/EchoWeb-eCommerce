@@ -9,12 +9,12 @@ mysql üzerine içe aktarılmalıdır.<br>
 Temel tasarım elemanlarını içeren klasördür, css, js, başlangıç img... gibi temel tasarım öğelerini<br>
 içinde barındırmaktadır.<br>
 
-<h4>templatePages -> mainPages / adminPages</h4> 
+<h4>templatePages -> mainPages & adminPages</h4> 
 Web sitesi içerisinde gezilebilir nitelikte olan nesnel olarak var olan sayfalar bu klasörler altında<br>
 toplanmıştır. 2 başlığa ayrılmıştır; bunlar genel kullanıcıların ulaşabildiği sayfalar (mainPages), ve yöneticilerin<br>
 ulaşabildiği sayfalar (adminPages).<br>
 
-<h4>controlPages / controlPagesAdmin:</h4> 
+<h4>controlPages & controlPagesAdmin:</h4> 
 Uygulamanın yazılma aşamasında sorgu döndürmek veya bazı kontrollerin yapılması için post karşılayan<br>
 php sayfalarını barındıran klasörlerdir. Veri tabanıyla iletişimin çoğu bu klasörlerin içinde ki php<br>
 sayfalarından yararlanılarak yapılmaktadır.<br>
