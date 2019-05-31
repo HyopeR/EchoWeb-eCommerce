@@ -21,6 +21,6 @@ Uygulamanın yazılma aşamasında sorgu döndürmek veya bazı kontrollerin yap
 php sayfalarını barındıran klasörlerdir. Veri tabanıyla iletişimin çoğu bu klasörlerin içinde ki php<br>
 sayfalarından yararlanılarak yapılmaktadır.<br>
 
-<h4>seller/arya</h4> 
+<h4>seller -> arya</h4> 
 Sisteme kayıtlanmış tek mağaza hesabıdır. Mağaza hesaplarının sistem üzerinde dosya oluşturma, img depolama<br>
 kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
