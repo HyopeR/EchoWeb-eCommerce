@@ -6,6 +6,8 @@ Sistemin arkaplanı için tasarlanmış veritabanının sql dosyasıdır. Proje 
 mysql üzerine içe aktarılmalıdır.<br>
 <img src="https://img.webme.com/pic/c/creative-blog/dbEcommerce.jpg" height="280" width="1000">
 
+<hr>
+
 <h4>settingsPages:</h4> 
 Temel tasarım elemanlarını içeren klasördür, css, js, başlangıç img... gibi temel tasarım öğelerini<br>
 içinde barındırmaktadır.<br>
@@ -23,7 +25,3 @@ sayfalarından yararlanılarak yapılmaktadır.<br>
 <h4>seller/arya</h4> 
 Sisteme kayıtlanmış tek mağaza hesabıdır. Mağaza hesaplarının sistem üzerinde dosya oluşturma, img depolama<br>
 kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
-
-<h4>Programın genel görünümü:</h4> 
-
-</p>
