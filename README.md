@@ -25,8 +25,8 @@ kayıt oluşturma gibi yetkinlikleri bulunmaktadır.<br>
 
 <hr>
 
-<h5>Genel Kullanıcı Arayüzü</h5>
+<h4>Genel Kullanıcı Arayüzü</h4>
 <img src="https://img.webme.com/pic/c/creative-blog/all-template.jpg" width="450">
 
-<h5>Yönetici Paneli Arayüzü</h5>
+<h4>Yönetici Paneli Arayüzü</h4>
 <img src="https://img.webme.com/pic/c/creative-blog/all-admin.jpg" width="450">
