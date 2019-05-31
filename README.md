@@ -1,6 +1,5 @@
 <h2># EchoWEB - Yönetici Paneli Destekli E-Ticaret Sistemi</h2>
 
-<p>
 <h4>1_web_commerce.sql</h4> 
 Sistemin arkaplanı için tasarlanmış veritabanının sql dosyasıdır. Proje çalıştırılmadan önce sql dosyası<br>
 mysql üzerine içe aktarılmalıdır.<br>
